@@ -1,0 +1,21 @@
+{
+  "movies": {
+    "action": [
+      {
+        "title": "John Wick",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjMxNF5BMl5BanBnXkFtZTgwOTY2NDU2MTI@._V1_.jpg"
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2Q3Y2Y3MjEt.jpg"
+      }
+    ],
+
+    "comedy": [
+      {
+        "title": "The Hangover",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNTkw.jpg"
+      }
+    ]
+  }
+}
